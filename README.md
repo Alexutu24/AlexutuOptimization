@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/Alexutu24/AlexutuOptimization/main/AlexutuOptimization/appicon.ico" alt="Logo" width="100" height="100">
+  <img src="https://i.imgur.com/t8w3n4Y.png" alt="Logo" width="100" height="100">
 
   # 🚀 Alexutu Optimization
   
