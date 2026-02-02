@@ -88,4 +88,4 @@ Contributions are what make the open-source community such an amazing place to l
 
 If you encounter any issues or have questions, please join our Discord server or open an issue here on GitHub.
 
-**Discord:** [Click to Join](https://discord.gg/linkul-tau-aici)
+**Discord:** [Click to Join](JCX2dwJv4c)
