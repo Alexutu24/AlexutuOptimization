@@ -1,5 +1,5 @@
 {
-  "version": "0.2",
-  "changelog": "- Added Restore Point Manager\n- Added Check System Tools\n- New Cyber-Red Design\n- Security & Bug Fixes",
-  "downloadUrl": "https://github.com/Alexutu24/AlexutuOptimization/releases/download/v0.2/Alexutu_Setup.exe"
+  "version": "0.3",
+  "changelog": "- NEW: Identity & Auth System (Role Sync & Avatar Fix)\n- NEW: Visual Overhaul (Neon Header & Animations)\n- NEW: Check System Hub (Space, RAM, GPU, BIOS Tools)\n- FIXED: Login Loop & Stability Improvements",
+  "download_url": "https://github.com/Alexutu24/AlexutuOptimization/releases/download/v0.3/Alexutu_Setup.exe"
 }
