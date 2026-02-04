@@ -1,5 +1,6 @@
 {
   "version": "0.3",
   "changelog": "- NEW: Identity & Auth System (Role Sync & Avatar Fix)\n- NEW: Visual Overhaul (Neon Header & Animations)\n- NEW: Check System Hub (Space, RAM, GPU, BIOS Tools)\n- FIXED: Login Loop & Stability Improvements",
+  "downloadUrl": "https://github.com/Alexutu24/AlexutuOptimization/releases/download/v0.3/Alexutu_Setup.exe",
   "download_url": "https://github.com/Alexutu24/AlexutuOptimization/releases/download/v0.3/Alexutu_Setup.exe"
 }
